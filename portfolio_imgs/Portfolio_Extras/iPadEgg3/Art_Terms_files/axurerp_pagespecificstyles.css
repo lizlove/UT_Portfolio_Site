@@ -1,0 +1,984 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../Art_Terms_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:516px;
+    top:0px;
+    width:250px;
+    height:973px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:256px;
+    height:979px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:478px;
+    width:246px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../Art_Terms_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:26px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:40px;
+    top:94px;
+    width:367px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:40px;
+    top:183px;
+    width:446px;
+    height:140px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../Art_Terms_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:527px;
+    top:604px;
+    width:16px;
+    height:16px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:22px;
+    height:22px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:12px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:552px;
+    top:608px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_line {
+    background-image: url('../Art_Terms_files/u9_line.png');
+}
+
+.u9_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:486px;
+    height:3px;
+}
+
+.u9 {
+    position:absolute;
+    left:0px;
+    top:141px;
+    width:486px;
+    height:10px;
+    
+}
+
+.u10_container {
+    position:absolute;
+    left:42px;
+    top:362px;
+    width:422px;
+    height:567px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:422px;
+    height:567px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:276px;
+    width:418px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:524px;
+    top:384px;
+    width:367px;
+    height:46px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:528px;
+    top:470px;
+    width:500px;
+    height:135px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../Art_Terms_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:36px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:26px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u16 {
+    position:absolute;
+    left:139px;
+    top:754px;
+    width:192px;
+    height:271px;
+    overflow:hidden;
+}
+
+#pd0u16 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:192px;
+    height:271px;
+    
+}
+
+#u17 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:191px;
+    height:293px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u18_normal {
+    background-image: url('../Art_Terms_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:14px;
+    top:219px;
+    width:94px;
+    height:50px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:100px;
+    height:56px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:90px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../Art_Terms_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:14px;
+    top:29px;
+    width:159px;
+    height:190px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:165px;
+    height:196px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:155px;
+    height:180px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_line {
+    background-image: url('../Art_Terms_files/u25_line.png');
+}
+
+.u25_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:140px;
+    height:3px;
+}
+
+.u25 {
+    position:absolute;
+    left:23px;
+    top:87px;
+    width:140px;
+    height:10px;
+    
+}
+
+.u26_line {
+    background-image: url('../Art_Terms_files/u26_line.png');
+}
+
+.u26_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:140px;
+    height:3px;
+}
+
+.u26 {
+    position:absolute;
+    left:23px;
+    top:153px;
+    width:140px;
+    height:10px;
+    
+}
+
+#u27 {
+    position:absolute;
+    left:385px;
+    top:693px;
+    width:252px;
+    height:332px;
+    overflow:hidden;
+}
+
+#pd0u27 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:252px;
+    height:332px;
+    
+}
+
+#u28 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:251px;
+    height:378px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u29_normal {
+    background-image: url('../Art_Terms_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:48px;
+    top:281px;
+    width:110px;
+    height:50px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:56px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:106px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../Art_Terms_files/u31_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:48px;
+    top:26px;
+    width:159px;
+    height:254px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:165px;
+    height:260px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:119px;
+    width:155px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u33 {
+    position:absolute;
+    left:63px;
+    top:32px;
+    width:118px;
+    height:241px;
+    overflow:hidden;
+}
+
+#pd0u33 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:118px;
+    height:241px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-x:hidden;
+    -ms-overflow-x:hidden;
+}
+
+.u34 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:117px;
+    height:672px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../Art_Terms_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:534px;
+    top:974px;
+    width:113px;
+    height:50px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:56px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:109px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../Art_Terms_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:0px;
+    top:974px;
+    width:60px;
+    height:50px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:56px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../Art_Terms_files/u18_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:58px;
+    top:974px;
+    width:94px;
+    height:50px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:100px;
+    height:56px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:90px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../Art_Terms_files/u18_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:152px;
+    top:974px;
+    width:94px;
+    height:50px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:100px;
+    height:56px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:90px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../Art_Terms_files/u18_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:246px;
+    top:974px;
+    width:94px;
+    height:50px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:100px;
+    height:56px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:90px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../Art_Terms_files/u18_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:340px;
+    top:974px;
+    width:94px;
+    height:50px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:100px;
+    height:56px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:90px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../Art_Terms_files/u29_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:434px;
+    top:974px;
+    width:110px;
+    height:50px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:56px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:106px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_line {
+    background-image: url('../Art_Terms_files/u50_line.png');
+}
+
+.u50_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:50px;
+}
+
+.u50 {
+    position:absolute;
+    left:58px;
+    top:974px;
+    width:10px;
+    height:50px;
+    
+}
+
+.u51_line {
+    background-image: url('../Art_Terms_files/u51_line.png');
+}
+
+.u51_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:50px;
+}
+
+.u51 {
+    position:absolute;
+    left:147px;
+    top:974px;
+    width:10px;
+    height:50px;
+    
+}
+
+.u52_line {
+    background-image: url('../Art_Terms_files/u52_line.png');
+}
+
+.u52_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:50px;
+}
+
+.u52 {
+    position:absolute;
+    left:241px;
+    top:974px;
+    width:10px;
+    height:50px;
+    
+}
+
+.u53_line {
+    background-image: url('../Art_Terms_files/u53_line.png');
+}
+
+.u53_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:50px;
+}
+
+.u53 {
+    position:absolute;
+    left:333px;
+    top:974px;
+    width:10px;
+    height:50px;
+    
+}
+
+.u54_line {
+    background-image: url('../Art_Terms_files/u54_line.png');
+}
+
+.u54_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:50px;
+}
+
+.u54 {
+    position:absolute;
+    left:428px;
+    top:974px;
+    width:10px;
+    height:50px;
+    
+}
+
+.u55_line {
+    background-image: url('../Art_Terms_files/u55_line.png');
+}
+
+.u55_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:50px;
+}
+
+.u55 {
+    position:absolute;
+    left:539px;
+    top:974px;
+    width:10px;
+    height:50px;
+    
+}
+
+.u56_container {
+    position:absolute;
+    left:5px;
+    top:980px;
+    width:51px;
+    height:35px;
+}
+
+#u56_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:51px;
+    height:35px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../Art_Terms_files/u58_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:647px;
+    top:974px;
+    width:119px;
+    height:50px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:56px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:115px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
